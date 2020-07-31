@@ -1,0 +1,30 @@
+.savesMenuContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #eef;
+    color: #ccd;
+}
+
+.save {
+    display: flex;
+    flex-direction: column;
+    padding: 2% 7%;
+    margin: 0 10%;
+    background-image: url("../../assets/images/saveBackground.png");
+    background-size: 100% 100%;
+}
+
+.save span {
+    padding: 3px;
+}
+
+.save div:last-child {
+    display: flex;
+}
+
+.save div:last-child span:first-child {
+    flex-grow: 1;
+}
