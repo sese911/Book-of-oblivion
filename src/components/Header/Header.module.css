@@ -1,0 +1,53 @@
+header {
+    display: grid;
+}
+
+menu {
+    display: flex;
+}
+
+.tab {
+    border: 5px solid green;
+}
+
+.options {
+    border: 5px solid blue;
+}
+
+@media screen and (orientation: portrait)
+{
+    header {
+        grid-template-rows: 3fr 2fr;
+    }
+
+    menu {
+        flex-direction: row;
+    }
+
+    .tab {
+        width: 25%;
+    }
+
+    .tab.active {
+        border-bottom: none;
+    }
+}
+
+@media screen and (orientation: landscape)
+{
+    header {
+        grid-template-columns: 3fr 2fr;
+    }
+
+    menu {
+        flex-direction: column;
+    }
+
+    .tab {
+        height: 25%;
+    }
+
+    .tab.active {
+        border-right: none;
+    }
+}

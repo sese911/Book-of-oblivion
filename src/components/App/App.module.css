@@ -1,0 +1,24 @@
+.mainContainer {
+    display: grid;
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+}
+
+.content {
+    border: 5px solid yellow;
+}
+
+@media screen and (orientation: portrait)
+{
+    .mainContainer {
+        grid-template-rows: 2fr 12fr;
+    }
+}
+
+@media screen and (orientation: landscape)
+{
+    .mainContainer {
+        grid-template-columns: 2fr 12fr;
+    }
+}
