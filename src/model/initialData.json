@@ -1,0 +1,1574 @@
+{
+  "locations": [
+    {
+      "locationIdx": 0,
+      "locationId": "triStone",
+      "locationName": "Трекамень",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_0",
+          "coords": {
+            "top": 0.9257075471698113,
+            "left": 0.04583333333333333,
+            "width": 0.07083333333333333,
+            "height": 0.06682389937106918
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_0",
+          "coords": {
+            "top": 0.4500786163522013,
+            "left": 0.3229166666666667,
+            "width": 0.07083333333333333,
+            "height": 0.06682389937106918
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_1_Tri-Stone.jpg",
+      "imageWHRatio": 0.9433962264150944
+    },
+    {
+      "locationIdx": 1,
+      "locationId": "weepingCrag",
+      "locationName": "Плачущий утёс",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_1",
+          "coords": {
+            "top": 0.741436298076923,
+            "left": 0.54375,
+            "width": 0.058333333333333334,
+            "height": 0.04907852564102564
+          }
+        },
+        {
+          "itemId": "boatmanCoin_2",
+          "coords": {
+            "top": 0.068359375,
+            "left": 0.17083333333333334,
+            "width": 0.058333333333333334,
+            "height": 0.04907852564102564
+          }
+        },
+        {
+          "itemId": "gnome_0",
+          "coords": {
+            "top": 0.10166266025641026,
+            "left": 0.24166666666666667,
+            "width": 0.058333333333333334,
+            "height": 0.04907852564102564
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_1",
+          "coords": {
+            "top": 0.8185596955128205,
+            "left": 0.44583333333333336,
+            "width": 0.058333333333333334,
+            "height": 0.04907852564102564
+          }
+        },
+        {
+          "itemId": "stoneOfPower_0",
+          "coords": {
+            "top": 0.19806690705128205,
+            "left": 0.8104166666666667,
+            "width": 0.058333333333333334,
+            "height": 0.04907852564102564
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_0",
+          "coords": {
+            "top": 0.39788661858974356,
+            "left": 0.4979166666666667,
+            "width": 0.058333333333333334,
+            "height": 0.04907852564102564
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_2_The_Weeping_Crag.jpg",
+      "imageWHRatio": 0.8413461538461539
+    },
+    {
+      "locationIdx": 2,
+      "locationId": "baneswood",
+      "locationName": "Проклятый лес",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_3",
+          "coords": {
+            "top": 0.8611641221374045,
+            "left": 0.26666666666666666,
+            "width": 0.07083333333333333,
+            "height": 0.08110687022900763
+          }
+        },
+        {
+          "itemId": "boatmanCoin_4",
+          "coords": {
+            "top": 0.603530534351145,
+            "left": 0.775,
+            "width": 0.07083333333333333,
+            "height": 0.08110687022900763
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_2",
+          "coords": {
+            "top": 0.3959923664122137,
+            "left": 0.12083333333333333,
+            "width": 0.07083333333333333,
+            "height": 0.08110687022900763
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_3",
+          "coords": {
+            "top": 0.20992366412213737,
+            "left": 0.39166666666666666,
+            "width": 0.07083333333333333,
+            "height": 0.08110687022900763
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_1",
+          "coords": {
+            "top": 0.5033396946564885,
+            "left": 0.8,
+            "width": 0.07083333333333333,
+            "height": 0.08110687022900763
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_3_Baneswood.jpg",
+      "imageWHRatio": 1.1450381679389312
+    },
+    {
+      "locationIdx": 3,
+      "locationId": "charredPass",
+      "locationName": "Изгарный перевал",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_5",
+          "coords": {
+            "top": 0.06712962962962964,
+            "left": 0.65625,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "boatmanCoin_6",
+          "coords": {
+            "top": 0.6435185185185186,
+            "left": 0.65,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "boatmanCoin_7",
+          "coords": {
+            "top": 0.5671296296296297,
+            "left": 0.5145833333333333,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "boatmanCoin_8",
+          "coords": {
+            "top": 0.8912037037037038,
+            "left": 0.46458333333333335,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_4",
+          "coords": {
+            "top": 0.10416666666666667,
+            "left": 0.7208333333333333,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_5",
+          "coords": {
+            "top": 0.2986111111111111,
+            "left": 0.9166666666666666,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_6",
+          "coords": {
+            "top": 0.7222222222222223,
+            "left": 0.5729166666666666,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_7",
+          "coords": {
+            "top": 0.826388888888889,
+            "left": 0.32083333333333336,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "stoneOfPower_1",
+          "coords": {
+            "top": 0.5856481481481481,
+            "left": 0.45,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "stoneOfPower_2",
+          "coords": {
+            "top": 0.8842592592592592,
+            "left": 0.5270833333333333,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "oranPart_0",
+          "coords": {
+            "top": 0.37037037037037035,
+            "left": 0.8729166666666667,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        },
+        {
+          "itemId": "oranPart_1",
+          "coords": {
+            "top": 0.8125,
+            "left": 0.4979166666666667,
+            "width": 0.058333333333333334,
+            "height": 0.06481481481481483
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_4_The_Charred_Pass.jpg",
+      "imageWHRatio": 1.1111111111111112
+    },
+    {
+      "locationIdx": 4,
+      "locationId": "caludron",
+      "locationName": "Котёл",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_9",
+          "coords": {
+            "top": 0.1676561125769569,
+            "left": 0.26666666666666666,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        },
+        {
+          "itemId": "boatmanCoin_10",
+          "coords": {
+            "top": 0,
+            "left": 0.26666666666666666,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        },
+        {
+          "itemId": "boatmanCoin_11",
+          "coords": {
+            "top": 0.22537379067722074,
+            "left": 0.11875,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        },
+        {
+          "itemId": "boatmanCoin_12",
+          "coords": {
+            "top": 0.7228452066842569,
+            "left": 0.3145833333333333,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        },
+        {
+          "itemId": "boatmanCoin_13",
+          "coords": {
+            "top": 0.2583553210202287,
+            "left": 0.37916666666666665,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_2",
+          "coords": {
+            "top": 0.640391380826737,
+            "left": 0.1625,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_3",
+          "coords": {
+            "top": 0.34630606860158314,
+            "left": 0.7895833333333333,
+            "width": 0.041666666666666664,
+            "height": 0.054969217238346524
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_5_The_Caludron.jpg",
+      "imageWHRatio": 1.3192612137203166
+    },
+    {
+      "locationIdx": 5,
+      "locationId": "shadowGorge",
+      "locationName": "Теснина тени",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_14",
+          "coords": {
+            "top": 0.34185082872928174,
+            "left": 0.1,
+            "width": 0.0625,
+            "height": 0.10359116022099447
+          }
+        },
+        {
+          "itemId": "boatmanCoin_15",
+          "coords": {
+            "top": 0.6180939226519337,
+            "left": 0.12916666666666668,
+            "width": 0.0625,
+            "height": 0.10359116022099447
+          }
+        },
+        {
+          "itemId": "boatmanCoin_16",
+          "coords": {
+            "top": 0.6629834254143647,
+            "left": 0.06458333333333334,
+            "width": 0.0625,
+            "height": 0.10359116022099447
+          }
+        },
+        {
+          "itemId": "oranPart_2",
+          "coords": {
+            "top": 0.23480662983425413,
+            "left": 0.58125,
+            "width": 0.0625,
+            "height": 0.10359116022099447
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_8",
+          "coords": {
+            "top": 0.2866022099447514,
+            "left": 0.16458333333333333,
+            "width": 0.0625,
+            "height": 0.10359116022099447
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_6_Shadow_Gorge.jpg",
+      "imageWHRatio": 1.6574585635359116
+    },
+    {
+      "locationIdx": 6,
+      "locationId": "shatteredForge",
+      "locationName": "Разрушенная кузница",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "bookOfTheDeadPage_4",
+          "coords": {
+            "top": 0.039970930232558134,
+            "left": 0.8583333333333333,
+            "width": 0.0625,
+            "height": 0.05450581395348837
+          }
+        },
+        {
+          "itemId": "boatmanCoin_22",
+          "coords": {
+            "top": 0.8648255813953488,
+            "left": 0.5770833333333333,
+            "width": 0.0625,
+            "height": 0.05450581395348837
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_7_The_Shattered_Forge.jpg",
+      "imageWHRatio": 0.872093023255814
+    },
+    {
+      "locationIdx": 7,
+      "locationId": "fjord",
+      "locationName": "Фьорд",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_17",
+          "coords": {
+            "top": 0.26490514905149054,
+            "left": 0.08541666666666667,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "boatmanCoin_18",
+          "coords": {
+            "top": 0.6247346431797652,
+            "left": 0.2708333333333333,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "boatmanCoin_19",
+          "coords": {
+            "top": 0.5298102981029811,
+            "left": 0.70625,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "boatmanCoin_20",
+          "coords": {
+            "top": 0.5585083559168925,
+            "left": 0.8604166666666667,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "boatmanCoin_21",
+          "coords": {
+            "top": 0.5563008130081302,
+            "left": 0.425,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_9",
+          "coords": {
+            "top": 0.3333389792231256,
+            "left": 0.058333333333333334,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_10",
+          "coords": {
+            "top": 0.6622628726287263,
+            "left": 0.8583333333333333,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "stoneOfPower_3",
+          "coords": {
+            "top": 0.41722560975609757,
+            "left": 0.8604166666666667,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "stoneOfResistance_0",
+          "coords": {
+            "top": 0.9315831074977418,
+            "left": 0.3770833333333333,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_5",
+          "coords": {
+            "top": 0.91171522131888,
+            "left": 0.47291666666666665,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_6",
+          "coords": {
+            "top": 0.4900745257452575,
+            "left": 0.8791666666666667,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        },
+        {
+          "itemId": "oranPart_3",
+          "coords": {
+            "top": 0.6534327009936767,
+            "left": 0.6541666666666667,
+            "width": 0.058333333333333334,
+            "height": 0.061811201445347796
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_8_The_Fjord.jpg",
+      "imageWHRatio": 1.0596205962059622
+    },
+    {
+      "locationIdx": 8,
+      "locationId": "drenchfort",
+      "locationName": "Ливневый форт",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_23",
+          "coords": {
+            "top": 0.2873563218390805,
+            "left": 0.4395833333333333,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "boatmanCoin_24",
+          "coords": {
+            "top": 0.3591954022988506,
+            "left": 0.8604166666666667,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "boatmanCoin_25",
+          "coords": {
+            "top": 0.2514367816091954,
+            "left": 0.23958333333333334,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "boatmanCoin_26",
+          "coords": {
+            "top": 0.45797413793103453,
+            "left": 0.2916666666666667,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "boatmanCoin_27",
+          "coords": {
+            "top": 0.8710488505747127,
+            "left": 0.07708333333333334,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_11",
+          "coords": {
+            "top": 0.3681752873563219,
+            "left": 0.475,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_7",
+          "coords": {
+            "top": 0.3008261494252874,
+            "left": 0.5145833333333333,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_8",
+          "coords": {
+            "top": 0.19755747126436782,
+            "left": 0.31666666666666665,
+            "width": 0.0375,
+            "height": 0.08081896551724138
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_9_The_Drenchfort.jpg",
+      "imageWHRatio": 2.1551724137931036
+    },
+    {
+      "locationIdx": 9,
+      "locationId": "nook",
+      "locationName": "Бухточка",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_28",
+          "coords": {
+            "top": 0.5752652519893899,
+            "left": 0.22708333333333333,
+            "width": 0.0625,
+            "height": 0.04973474801061008
+          }
+        },
+        {
+          "itemId": "boatmanCoin_29",
+          "coords": {
+            "top": 0.3265915119363395,
+            "left": 0.49166666666666664,
+            "width": 0.0625,
+            "height": 0.04973474801061008
+          }
+        },
+        {
+          "itemId": "boatmanCoin_30",
+          "coords": {
+            "top": 0.24701591511936338,
+            "left": 0.3770833333333333,
+            "width": 0.0625,
+            "height": 0.04973474801061008
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_12",
+          "coords": {
+            "top": 0.3232758620689655,
+            "left": 0.65625,
+            "width": 0.0625,
+            "height": 0.04973474801061008
+          }
+        },
+        {
+          "itemId": "boatmanCoin_31",
+          "coords": {
+            "top": 0.8106763925729443,
+            "left": 0.6916666666666667,
+            "width": 0.0625,
+            "height": 0.04973474801061008
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_9",
+          "coords": {
+            "top": 0.11604774535809019,
+            "left": 0.325,
+            "width": 0.0625,
+            "height": 0.04973474801061008
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_10_The_Nook.jpg",
+      "imageWHRatio": 0.7957559681697612
+    },
+    {
+      "locationIdx": 10,
+      "locationId": "lostTemple",
+      "locationName": "Затерянный храм",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_32",
+          "coords": {
+            "top": 0.3377757352941177,
+            "left": 0.7125,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "boatmanCoin_33",
+          "coords": {
+            "top": 0,
+            "left": 0.71875,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "boatmanCoin_34",
+          "coords": {
+            "top": 0.35386029411764713,
+            "left": 0.36666666666666664,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "boatmanCoin_35",
+          "coords": {
+            "top": 0.40211397058823534,
+            "left": 0.5,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "boatmanCoin_36",
+          "coords": {
+            "top": 0.2948835784313726,
+            "left": 0.24583333333333332,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_10",
+          "coords": {
+            "top": 0.8310355392156864,
+            "left": 0.4354166666666667,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_11",
+          "coords": {
+            "top": 0.13403799019607845,
+            "left": 0.3625,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "stoneOfPower_4",
+          "coords": {
+            "top": 0.053615196078431376,
+            "left": 0.3458333333333333,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_13",
+          "coords": {
+            "top": 0.42356004901960786,
+            "left": 0.6833333333333333,
+            "width": 0.03333333333333333,
+            "height": 0.0857843137254902
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_11_The_Lost_Temple.jpg",
+      "imageWHRatio": 2.573529411764706
+    },
+    {
+      "locationIdx": 11,
+      "locationId": "foundry",
+      "locationName": "Плавильня",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "stoneOfResistance_1",
+          "coords": {
+            "top": 0.0683371298405467,
+            "left": 0.41041666666666665,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        },
+        {
+          "itemId": "boatmanCoin_37",
+          "coords": {
+            "top": 0.2126044039483675,
+            "left": 0.8083333333333333,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        },
+        {
+          "itemId": "boatmanCoin_38",
+          "coords": {
+            "top": 0.41761579347000755,
+            "left": 0.8145833333333333,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        },
+        {
+          "itemId": "boatmanCoin_39",
+          "coords": {
+            "top": 0.5542900531511009,
+            "left": 0.575,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        },
+        {
+          "itemId": "boatmanCoin_40",
+          "coords": {
+            "top": 0.6871678056188306,
+            "left": 0.59375,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        },
+        {
+          "itemId": "boatmanCoin_41",
+          "coords": {
+            "top": 0.8276385725132878,
+            "left": 0.8833333333333333,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_12",
+          "coords": {
+            "top": 0.09491268033409264,
+            "left": 0.016666666666666666,
+            "width": 0.03333333333333333,
+            "height": 0.060744115413819286
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_12_The_Foundry.jpg",
+      "imageWHRatio": 1.8223234624145785
+    },
+    {
+      "locationIdx": 12,
+      "locationId": "stonefathersVale",
+      "locationName": "Долина отца камней",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "bookOfTheDeadPage_13",
+          "coords": {
+            "top": 0.03676470588235294,
+            "left": 0.6854166666666667,
+            "width": 0.0625,
+            "height": 0.052521008403361345
+          }
+        },
+        {
+          "itemId": "stoneOfMystic_14",
+          "coords": {
+            "top": 0.11379551820728291,
+            "left": 0.63125,
+            "width": 0.0625,
+            "height": 0.052521008403361345
+          }
+        },
+        {
+          "itemId": "boatmanCoin_42",
+          "coords": {
+            "top": 0.546218487394958,
+            "left": 0.0375,
+            "width": 0.0625,
+            "height": 0.052521008403361345
+          }
+        },
+        {
+          "itemId": "boatmanCoin_44",
+          "coords": {
+            "top": 0.8876050420168067,
+            "left": 0.31666666666666665,
+            "width": 0.0625,
+            "height": 0.052521008403361345
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_13_Stonefathers_Vale.jpg",
+      "imageWHRatio": 0.8403361344537815
+    },
+    {
+      "locationIdx": 13,
+      "locationId": "scar",
+      "locationName": "Шрам",
+      "worldId": "forgeLands",
+      "worldName": "Кузнечные земли",
+      "marks": [
+        {
+          "itemId": "boatmanCoin_43",
+          "coords": {
+            "top": 0.22935267857142858,
+            "left": 0.14791666666666667,
+            "width": 0.041666666666666664,
+            "height": 0.08494543650793651
+          }
+        },
+        {
+          "itemId": "bookOfTheDeadPage_14",
+          "coords": {
+            "top": 0.27182539682539686,
+            "left": 0.08125,
+            "width": 0.041666666666666664,
+            "height": 0.08494543650793651
+          }
+        }
+      ],
+      "imageSrc": "https://gamesisart.ru/images/screens/Darksiders2/Darksiders_2_14_The_Scar.jpg",
+      "imageWHRatio": 2.0386904761904763
+    }
+  ],
+  "items": {
+    "bookOfTheDeadPage": [
+      {
+        "id": "bookOfTheDeadPage_0",
+        "locationIdx": 1,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_1",
+        "locationIdx": 2,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_2",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_3",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_4",
+        "locationIdx": 6,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_5",
+        "locationIdx": 7,
+        "skillDependence": "voidwalker",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_6",
+        "locationIdx": 7,
+        "skillDependence": "soulSplitter",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_7",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_8",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_9",
+        "locationIdx": 9,
+        "skillDependence": "deathGrip",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_10",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_11",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_12",
+        "locationIdx": 11,
+        "skillDependence": "deathGrip",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_13",
+        "locationIdx": 12,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "bookOfTheDeadPage_14",
+        "locationIdx": 13,
+        "skillDependence": "deathGrip",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      }
+    ],
+    "boatmanCoin": [
+      {
+        "id": "boatmanCoin_0",
+        "locationIdx": 0,
+        "skillDependence": "null",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_1",
+        "locationIdx": 1,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_2",
+        "locationIdx": 1,
+        "skillDependence": "voidwalker",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_3",
+        "locationIdx": 2,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_4",
+        "locationIdx": 2,
+        "skillDependence": "deathGrip",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_5",
+        "locationIdx": 3,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_6",
+        "locationIdx": 3,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_7",
+        "locationIdx": 3,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_8",
+        "locationIdx": 3,
+        "skillDependence": "deathGrip",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_9",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_10",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_11",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_12",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_13",
+        "locationIdx": 4,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_14",
+        "locationIdx": 5,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_15",
+        "locationIdx": 5,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_16",
+        "locationIdx": 5,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_17",
+        "locationIdx": 7,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_18",
+        "locationIdx": 7,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_19",
+        "locationIdx": 7,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_20",
+        "locationIdx": 7,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_21",
+        "locationIdx": 7,
+        "skillDependence": "deathGrip",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_22",
+        "locationIdx": 6,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_23",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_24",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_25",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_26",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_27",
+        "locationIdx": 8,
+        "skillDependence": "null",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_28",
+        "locationIdx": 9,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_29",
+        "locationIdx": 9,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_30",
+        "locationIdx": 9,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_31",
+        "locationIdx": 9,
+        "skillDependence": "deathGrip",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_32",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_33",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_34",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_35",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_36",
+        "locationIdx": 10,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_37",
+        "locationIdx": 11,
+        "skillDependence": "null",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_38",
+        "locationIdx": 11,
+        "skillDependence": "null",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_39",
+        "locationIdx": 11,
+        "skillDependence": "null",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_40",
+        "locationIdx": 11,
+        "skillDependence": "null",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_41",
+        "locationIdx": 11,
+        "skillDependence": "null",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_42",
+        "locationIdx": 12,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_43",
+        "locationIdx": 13,
+        "skillDependence": "deathGrip",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "boatmanCoin_44",
+        "locationIdx": 12,
+        "skillDependence": "null",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      }
+    ],
+    "soulArbitersScroll": [],
+    "stoneOfMystic": [
+      {
+        "id": "stoneOfMystic_0",
+        "locationIdx": 0,
+        "skillDependence": "redemption",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_1",
+        "locationIdx": 1,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_2",
+        "locationIdx": 2,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_3",
+        "locationIdx": 2,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_4",
+        "locationIdx": 3,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_5",
+        "locationIdx": 3,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_6",
+        "locationIdx": 3,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_7",
+        "locationIdx": 3,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_8",
+        "locationIdx": 5,
+        "skillDependence": "redemption",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_9",
+        "locationIdx": 7,
+        "skillDependence": "redemption",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_10",
+        "locationIdx": 7,
+        "skillDependence": "redemption",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_11",
+        "locationIdx": 8,
+        "skillDependence": "redemption",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_12",
+        "locationIdx": 9,
+        "skillDependence": "redemption",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_13",
+        "locationIdx": 10,
+        "skillDependence": "redemption",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfMystic_14",
+        "locationIdx": 12,
+        "skillDependence": "redemption",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      }
+    ],
+    "stoneOfPower": [
+      {
+        "id": "stoneOfPower_0",
+        "locationIdx": 1,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfPower_1",
+        "locationIdx": 3,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfPower_2",
+        "locationIdx": 3,
+        "skillDependence": "redemption",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfPower_3",
+        "locationIdx": 7,
+        "skillDependence": "redemption",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfPower_4",
+        "locationIdx": 10,
+        "skillDependence": "redemption",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      }
+    ],
+    "stoneOfResistance": [
+      {
+        "id": "stoneOfResistance_0",
+        "locationIdx": 7,
+        "skillDependence": "voidwalker",
+        "questDependence": "mountainFlame",
+        "state": "inaccessible"
+      },
+      {
+        "id": "stoneOfResistance_1",
+        "locationIdx": 11,
+        "skillDependence": "redemption",
+        "questDependence": "moveMountain",
+        "state": "inaccessible"
+      }
+    ],
+    "etugothRelic": [],
+    "renagothRelic": [],
+    "khagothRelic": [],
+    "trappedAngel": [],
+    "oranPart": [
+      {
+        "id": "oranPart_0",
+        "locationIdx": 3,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "oranPart_1",
+        "locationIdx": 3,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "oranPart_2",
+        "locationIdx": 5,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      },
+      {
+        "id": "oranPart_3",
+        "locationIdx": 7,
+        "skillDependence": "null",
+        "questDependence": "mountainTears",
+        "state": "inaccessible"
+      }
+    ],
+    "gnome": [
+      {
+        "id": "gnome_0",
+        "locationIdx": 1,
+        "skillDependence": "voidwalker",
+        "questDependence": "saveWar",
+        "state": "inaccessible"
+      }
+    ]
+  },
+  "skills": {},
+  "quests": {},
+  "progress": 0
+}
